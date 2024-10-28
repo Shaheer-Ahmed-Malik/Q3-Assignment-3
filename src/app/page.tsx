@@ -13,7 +13,9 @@ const HomePage = () => {
       <section className="mt-10">
         <h2 className="text-3xl font-semibold text-center">What We Offer</h2>
         <div className="mt-6 grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div className="bg-white shadow-lg p-4 rounded">
+
+          <div className="bg-white shadow-xl p-4 duration-500 rounded-xl transition-all hover:scale-105
+          colors hover:bg-red-900 hover:text-white ">
             <h3 className="text-xl font-semibold">Custom Web Development</h3>
             <p> 
 
@@ -21,7 +23,8 @@ const HomePage = () => {
             </p>
           </div>
 
-          <div className="bg-white shadow-lg p-4 rounded">
+          <div className="bg-white shadow-xl p-4 duration-500 rounded-xl transition-all hover:scale-105
+          colors hover:bg-red-900 hover:text-white ">
             <h3 className="text-xl font-semibold">Creative Design Services</h3>
             <p>
               Unique and engaging designs that captivate your audience and elevate your brand.
@@ -29,7 +32,8 @@ const HomePage = () => {
             
           </div>
 
-          <div className="bg-white shadow-lg p-4 rounded">
+          <div className="bg-white shadow-xl p-4 duration-500 rounded-xl transition-all hover:scale-105
+          colors hover:bg-red-900 hover:text-white ">
             <h3 className="text-xl font-semibold">Expert SEO Strategies</h3>
             <p>
               Enhance your visibility online with our SEO services that deliver results.
