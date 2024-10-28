@@ -4,7 +4,7 @@ const ContactPage = () => {
         <h1 className="text-4xl font-bold">Contact Us</h1>
         <p className="mt-4 text-lg">
 
-          We'd love to hear from you! Please reach out via email at info@unique-services.com.
+          We love to hear from you! Please reach out via email at info@unique-services.com.
         </p>
 </div>
 

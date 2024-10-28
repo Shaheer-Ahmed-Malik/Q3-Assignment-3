@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="bg-red-900 font-bold font-color text-slate-50 h-20">
         <div className="flex justify-between items-center">
             <Link href="/">
-                <h1 className='text-xl m-6 cursor-pointer hover:text-red-400'>My Portfolio</h1>
+                <h1 className='text-xl m-6 cursor-pointer hover:text-red-400'>Rodem</h1>
             </Link>
             <ul className='flex gap-4 mr-5'>      
                 <Link className='hover:text-red-400' href= "/about">About</Link>
